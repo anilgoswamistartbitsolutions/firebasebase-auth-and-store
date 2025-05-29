@@ -1,0 +1,189 @@
+{
+  "team": {
+    "name": "mbit.dev",
+    "experience": "10",
+    "phone": "+91-989-898-9898",
+    "email": "contact@mbit.devs", 
+    "skype": "Mbitdevs",
+    "address": "2nd Floor, Omega Complex, Sector 62, Noida - 201309, Uttar Pradesh, India",
+    "projectsCount": " 100+",
+    "clientsCount": " 50+",
+    "'awardsCount": " 10+",
+    "social": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/mbitdevs",
+        "icon": "facebook",
+        "iconType": "icon"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/mbitdevs",
+        "icon": "twitter",
+        "iconType": "icon"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/mbitdevs",
+        "icon": "linkedin",
+        "iconType": "icon"
+      },
+      {
+        "name": "github",
+        "link": "https://www.github.com/mbitdevs",
+        "icon": "github",
+        "iconType": "icon"
+      }
+    ],
+    "content": [
+      {
+        "type": "hero",
+        "title": "Crafting Scalable",
+        "title2": " Web & App Solutions",
+        "heroImage": "/images/hero.jpg",
+        "heroImageType": "image",
+        "heroImageAlt": "Hero Image",
+        "subtitle": "We are a team of developers and designers focused on delivering tailored digital products that combine strategy, technology, and creativity",
+        "buttons": [
+          {
+            "text": "Get in touch",
+            "link": "/contact",
+            "hasIcon": true,
+            "alignment": "right",
+            "icon": "",
+            "iconType": "icon"
+          },
+          {
+            "text": "See our work",
+            "link": "/projects",
+            "hasIcon": true,
+            "alignment": "right",
+            "icon": "",
+            "iconType": "icon"
+          }
+        ],
+        "skillIcons": [
+          { "name": "", "image": "", "imageType": "image", "imageAlt": "" }
+        ]
+      },
+      {
+        "type": "services",
+        "title": "What do we offer?",
+        "subtitle": "Our journey started with a fascination for design and technology, leading us to specialize in development",
+        "services": [
+          {
+            "title": "",
+            "subtitle": "",
+            "sortSubTitle": "",
+            "image": "",
+            "imageAlt": "",
+            "imageType": "image",
+            "serviceDetails": [
+              {
+                "title": "",
+                "subtitle": "",
+                "sortSubTitle": ""
+              },
+              {
+                "title": "",
+                "subtitle": "",
+                "sortSubTitle": ""
+              },
+              {
+                "title": "",
+                "subtitle": "",
+                "sortSubTitle": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "work",
+        "title": "Our Latest Works?",
+        "subtitle": "We believe that working hard and trying to learn every day will make me improve in satisfying my customers.",
+
+        "selectedProjects": [""]
+      },
+      {
+        "type": "testimonials",
+        "title": "What our clients say?",
+        "subtitle": "We are proud to have worked with some amazing clients, and we are grateful for their trust in us.",
+        "selectedTestimonials": [""]
+      },
+      {
+        "type": "trust",
+        "title": "Trusted by industry leaders",
+        "subtitle": "we have collaborated with many large corporations, companies, and agencies around the world in many fields of development and consulting",
+        "trustLogos": [
+          {
+            "name": "",
+            "image": "",
+            "imageType": "image",
+            "imageAlt": "",
+            "link": ""
+          }
+        ]
+      }
+    ],
+
+    "projects": [
+      {
+        "title": "",
+        "subtitle": "",
+        "sortSubTitle": "",
+        "projectType": "web-development",
+        "client": "",
+        "image": "",
+        "imageAlt": "",
+        "imageType": "image",
+        "coverImage": "",
+        "coverImageAlt": "",
+        "coverImageType": "image",
+        "editorContent": "",
+        "otherDetails": [
+          {
+            "title": "",
+            "subtitle": "",
+            "sortSubTitle": ""
+          },
+          {
+            "title": "",
+            "subtitle": "",
+            "sortSubTitle": ""
+          },
+          {
+            "title": "",
+            "subtitle": "",
+            "sortSubTitle": ""
+          }
+        ]
+      }
+    ],
+    "projectTypes": [
+      { "label": "Web Development", "value": "web-development" },
+      { "label": "Mobile Development", "value": "mobile-development" },
+      { "label": "UI/UX Design", "value": "ui-ux-design" },
+      { "label": "E-commerce", "value": "e-commerce" },
+      { "label": "Digital Marketing", "value": "digital-marketing" }
+    ],
+    "clients": [
+      {
+        "name": "",
+        "image": "",
+        "imageType": "image",
+        "imageAlt": "",
+        "link": "",
+        "age": ""
+      }
+    ],
+    "testimonials": [
+      {
+        "client": "",
+        "content": "",
+        "descContent": "",
+        "rating": 5
+      }
+    ]
+  }
+}
